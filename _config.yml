@@ -1,7 +1,7 @@
 # Site settings
 title: Puran Blog
 SEOTitle: 仆冉的博客 | Puran Blog 
-header-img: img/post-bg-desk.jpg
+header-img: img/puran_avator.jpg
 email: zxw.kelvin@gmail.com
 description: "一只特立独行的猪"
 keyword: "Puran, Puran1218, Puran Blog, 仆冉的博客, Product, GIS"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/puran1218/puran1218.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "一起看看那只猪的世界"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/puran_blog_avator.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
